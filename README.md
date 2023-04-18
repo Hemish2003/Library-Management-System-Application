@@ -54,6 +54,7 @@ This will ensure the quality of your application.
 
 #Output
 
+![optimized-image](https://user-images.githubusercontent.com/110459633/232772427-c860fca6-fb09-4b30-ae57-aca9f5ad5a83.jpeg)
 ![optimized-image (7)](https://user-images.githubusercontent.com/110459633/232771754-e91465b2-63b0-4677-ba30-9ad9e09a8b3b.jpeg)
 ![optimized-image (6)](https://user-images.githubusercontent.com/110459633/232771763-f42af247-39cb-4fb4-8671-70de2fe1c43a.jpeg)
 ![optimized-image (5)](https://user-images.githubusercontent.com/110459633/232771766-c757335d-de03-47a5-a12c-013365bd03b0.jpeg)
@@ -62,7 +63,7 @@ This will ensure the quality of your application.
 ![optimized-image](https://user-images.githubusercontent.com/110459633/232772427-c860fca6-fb09-4b30-ae57-aca9f5ad5a83.jpeg)
 ![optimized-image (2)](https://user-images.githubusercontent.com/110459633/232772435-b196af97-f3d2-4f45-a5f6-a9ffd98eed0f.jpeg)
 ![optimized-image (1)](https://user-images.githubusercontent.com/110459633/232772439-0ddcc9b3-86fa-4d4e-8552-ccaf74f79636.jpeg)
-)
+
 
 
 ## Getting Started
