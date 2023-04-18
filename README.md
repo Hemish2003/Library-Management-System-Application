@@ -45,7 +45,7 @@ So in short this project contains following use cases:
 * Logo generations by `flutter_launcher_icons` package
 * Flutter version: `1.7.8+hotfix.3`
 
-Design inspired by [Shirish Shikhrakar ](https://dribbble.com/shots/6552218-Reading-Application)
+Design inspired by Hemish,Jeel,Hemil.
 
 ### Tests
 
