@@ -59,7 +59,7 @@ This will ensure the quality of your application.
 ![optimized-image (6)](https://user-images.githubusercontent.com/110459633/232771763-f42af247-39cb-4fb4-8671-70de2fe1c43a.jpeg)
 ![optimized-image (5)](https://user-images.githubusercontent.com/110459633/232771766-c757335d-de03-47a5-a12c-013365bd03b0.jpeg)
 ![optimized-image (9)](https://user-images.githubusercontent.com/110459633/232771769-80d033a6-a21a-45da-90ff-67362c6b2260.jpeg)
-![optimized-image (8)](https://user-images.githubusercontent.com/110459633/232771774-b9e9ff0c-f543-47f8-9b89-ef12ff660485.jpeg
+![optimized-image (8)](https://user-images.githubusercontent.com/110459633/232771774-b9e9ff0c-f543-47f8-9b89-ef12ff660485.jpeg)
 ![optimized-image](https://user-images.githubusercontent.com/110459633/232772427-c860fca6-fb09-4b30-ae57-aca9f5ad5a83.jpeg)
 ![optimized-image (2)](https://user-images.githubusercontent.com/110459633/232772435-b196af97-f3d2-4f45-a5f6-a9ffd98eed0f.jpeg)
 ![optimized-image (1)](https://user-images.githubusercontent.com/110459633/232772439-0ddcc9b3-86fa-4d4e-8552-ccaf74f79636.jpeg)
