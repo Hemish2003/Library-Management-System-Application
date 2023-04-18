@@ -62,7 +62,7 @@ This will ensure the quality of your application.
 ![optimized-image (8)](https://user-images.githubusercontent.com/110459633/232771774-b9e9ff0c-f543-47f8-9b89-ef12ff660485.jpeg)
 ![optimized-image](https://user-images.githubusercontent.com/110459633/232772427-c860fca6-fb09-4b30-ae57-aca9f5ad5a83.jpeg)
 ![optimized-image (2)](https://user-images.githubusercontent.com/110459633/232772435-b196af97-f3d2-4f45-a5f6-a9ffd98eed0f.jpeg)
-![optimized-image (1)](https://user-images.githubusercontent.com/110459633/232772439-0ddcc9b3-86fa-4d4e-8552-ccaf74f79636.jpeg)
+
 
 
 
